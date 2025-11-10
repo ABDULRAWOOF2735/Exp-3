@@ -1,6 +1,6 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
-# Developed by: N V Chetan Satwik
-# Reg no: 212224240100
+# Developed by: ABDULRAWOOF
+# Reg no: 2122242430003
 
 # AIM: 
 To develop the Railway Reservation System using Star UML tool.
